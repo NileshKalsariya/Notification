@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95794113584",
+    "project_id": "notification-25c4c",
+    "storage_bucket": "notification-25c4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95794113584:android:6ac52013a06a5f321d51f5",
+        "android_client_info": {
+          "package_name": "com.nilesh.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95794113584-sfbii5qct7eo6se5bc01kkid5krjrnfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALShAHCtiq_w7XO5de7PBdVC_uvttgBrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95794113584-sfbii5qct7eo6se5bc01kkid5krjrnfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
